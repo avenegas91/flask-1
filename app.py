@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-# Function to fetch exchange rates from the API
+
 def get_exchange_rates():
     url = 'https://api.exchangerate.host/latest'
     response = requests.get(url)
