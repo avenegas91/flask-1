@@ -5,7 +5,7 @@ Answer the following questions below:
 - What are important differences between Python and JavaScript?
 
 >JavaScript is a front-end, client-side, scripting language that is used alongside HTML and CSS.
-Python is a back-end language that uses a server to have website function the way you want.
+>Python is a back-end language that uses a server to have website function the way you want.
 
 - Given a dictionary like ``{"a": 1, "b": 2}``: , list two ways you
   can try to get a missing key (like "c") *without* your programming
